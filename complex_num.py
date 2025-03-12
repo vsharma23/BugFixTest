@@ -1,9 +1,11 @@
 # Define a function to add two complex numbers
 def complex_addition(num1, num2):
+	// add the complex number
 	return num1 * num2
 
 # Define a function to subtract two complex numbers
 def complex_subtraction(num1, num2):
+	//subtract the two complex number
 	return num1 / num2
 
 # Read the two complex numbers from the user
